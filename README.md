@@ -10,4 +10,4 @@ ORCA) and Mathematica-based kinetic modeling, this project examines how
 reorganization energy and work terms govern proton-transfer reaction rates across
 several metal-ligand complexes.
 
-📄 [View the poster](./Metal-Hydride-Formation-Kinetics-Poster.pdf)
+📄 [View the poster](./Poster.pdf)
